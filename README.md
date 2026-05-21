@@ -23,21 +23,21 @@
 
 I'm an **Android developer** with **8+ years** of experience building modular, production-ready mobile apps. I work at **Systems Limited** in **Lahore** and focus on modern Android stacks—**Kotlin**, **Jetpack Compose**, **Material 3**, and **multi-module** architectures with clear separation of concerns.
 
-I enjoy open source, sharing what I learn on [Medium](https://medium.com/@saadkhan0799), and shipping libraries and sample apps other developers can use.
+I enjoy open source, sharing what I learn on [Medium](https://medium.com/@saadkhan0799), and shipping **Maven Central** libraries and sample apps other developers can use.
 
 ## Featured work
 
 | Project | Description |
 |--------|-------------|
-| [**ComposeGlassKitTheme**](https://github.com/saadkhalidkhan/ComposeGlassKitTheme) | Glassmorphism UI for Jetpack Compose — published on [Maven Central](https://central.sonatype.com/artifact/io.github.saadkhalidkhan/compose-glasskit) |
-| [**ComposeMultiModuleArchitecture**](https://github.com/saadkhalidkhan/ComposeMultiModuleArchitecture) | Compose multi-module app template with Clean Architecture |
-| [**TaskMaster**](https://github.com/saadkhalidkhan/TaskMaster) | Task management app (Kotlin) |
-| [**Expense-Manager**](https://github.com/saadkhalidkhan/Expense-Manager) | Personal finance tracker (Kotlin) |
-| [**Saad-Portfolio**](https://github.com/saadkhalidkhan/Saad-Portfolio) | Developer portfolio (TypeScript) |
+| [**PinFlow**](https://github.com/saadkhalidkhan/PinFlow) | Animated OTP / PIN input for Jetpack Compose — [Maven Central](https://central.sonatype.com/artifact/io.github.saadkhalidkhan/pinflow-compose) · [API docs](https://saadkhalidkhan.github.io/PinFlow/) |
+| [**ComposeGlassKit**](https://github.com/saadkhalidkhan/ComposeGlassKitTheme) | Glassmorphism UI components for Compose — [Maven Central](https://central.sonatype.com/artifact/io.github.saadkhalidkhan/compose-glasskit) |
+| [**TaskMaster**](https://github.com/saadkhalidkhan/TaskMaster) | Compose multi-module app template with Clean Architecture |
+| [**FlowFi**](https://github.com/saadkhalidkhan/FlowFi) | Personal finance tracker (Kotlin) |
+| [**Saad Portfolio**](https://github.com/saadkhalidkhan/Saad-Portfolio) | Developer portfolio (TypeScript) |
 
 ## What I work with
 
-- **UI:** Jetpack Compose, Material 3, custom design systems, glass / blur effects
+- **UI:** Jetpack Compose, Material 3, OTP/PIN flows, glass / blur effects
 - **Architecture:** MVVM, Clean Architecture, multi-module Gradle setups
 - **Tooling:** Gradle, GitHub Actions, Maven Central publishing, JitPack
 - **Quality:** Unit tests, CI, maintainable APIs for library consumers
