@@ -34,9 +34,9 @@ Outside client work, I publish **Jetpack Compose libraries** on [Maven Central](
 |--------|-------------|
 | [**PinFlow**](https://github.com/saadkhalidkhan/PinFlow) | Animated OTP / PIN input for Jetpack Compose — [Maven Central](https://central.sonatype.com/artifact/io.github.saadkhalidkhan/pinflow-compose) · [API docs](https://saadkhalidkhan.github.io/PinFlow/) |
 | [**ComposeNavMotion**](https://github.com/saadkhalidkhan/ComposeNavMotion) | Navigation transition presets for Compose (`fade`, `slide`, `scale`) — [Maven Central](https://central.sonatype.com/artifact/io.github.saadkhalidkhan/composenavmotion) |
-| [**ComposeGlassKit**](https://github.com/saadkhalidkhan/ComposeGlassKitTheme) | Glassmorphism UI components for Compose — [Maven Central](https://central.sonatype.com/artifact/io.github.saadkhalidkhan/compose-glasskit) |
 | [**TaskMaster**](https://github.com/saadkhalidkhan/TaskMaster) | Compose multi-module app template with Clean Architecture |
 | [**FlowFi**](https://github.com/saadkhalidkhan/FlowFi) | Personal finance tracker (Kotlin) |
+| [**Saad Portfolio**](https://github.com/saadkhalidkhan/Saad-Portfolio) | Developer portfolio (TypeScript) |
 
 ## What I work with
 
